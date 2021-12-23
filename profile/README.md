@@ -1,4 +1,4 @@
-![wave](https://capsule-render.vercel.app/api?type=soft&color=#036EB7&height=250&text=Hello,%20Corca&fontSize=120&fontAlignY=55&animation=fadeIn)
+![wave](https://capsule-render.vercel.app/api?type=soft&color=036EB7&height=250&text=Hello,%20Corca&fontSize=120&fontAlignY=55&animation=fadeIn&fontColor=ffffff)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/corca-ai)](https://github.com/corca-ai)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taeho-lee-7240921a5/)](https://www.linkedin.com/in/taeho-lee-7240921a5/) 
