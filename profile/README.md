@@ -1,20 +1,20 @@
-<a href="https://github.com/corca-ai">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/corca-ai/.github/assets/51875059/21b057de-737c-4a2e-9c7b-6c98f1592810">
-      <img alt="corca" src="https://github.com/corca-ai/.github/assets/51875059/21b057de-737c-4a2e-9c7b-6c98f1592810">
-    </picture>
-</a>
-
-<br/>
-
 <div align="center">
-
-[![Github Badge](https://img.shields.io/badge/github-corca_ai-1f2329?logo=github)](https://github.com/corca-ai) 
-[![Medium Badge](https://img.shields.io/badge/medium-tech_blog-black.svg?logo=medium)](https://medium.com/corca)
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-corca-0b66c2.svg?logo=Linkedin&title_bg=%230b66c2)](https://www.linkedin.com/company/corca-ai/)
-[![StackShare Badge](https://img.shields.io/badge/stackshare-tech_stack-008ff9.svg?logo=stackshare&logoColor=fff)](https://stackshare.io/corca/corcas-tech-stack)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-corca-dd2a7b.svg?logo=instagram&logoColor=fff)](https://www.instagram.com/corca_ai/)
-[![Team Notion Badge](https://img.shields.io/badge/Notion-corca_team-121212.svg?logo=notion&logoColor=fff)](https://www.corca.team/)
+  <a href="https://github.com/corca-ai">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/corca-ai/.github/assets/51875059/8deb9281-eff8-490a-b652-58f248e4a084">
+        <img alt="corca" src="https://github.com/corca-ai/.github/assets/51875059/4cb1ff78-cd12-4ebe-94d1-a040e90a7910">
+      </picture>
+  </a>
+  
+  <br/>
+  <br/>
+  
+  [![Github Badge](https://img.shields.io/badge/github-corca_ai-1f2329?logo=github)](https://github.com/corca-ai) 
+  [![Medium Badge](https://img.shields.io/badge/medium-tech_blog-black.svg?logo=medium)](https://medium.com/corca)
+  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-corca-0b66c2.svg?logo=Linkedin&title_bg=%230b66c2)](https://www.linkedin.com/company/corca-ai/)
+  [![StackShare Badge](https://img.shields.io/badge/stackshare-tech_stack-008ff9.svg?logo=stackshare&logoColor=fff)](https://stackshare.io/corca/corcas-tech-stack)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-corca-dd2a7b.svg?logo=instagram&logoColor=fff)](https://www.instagram.com/corca_ai/)
+  [![Team Notion Badge](https://img.shields.io/badge/Notion-corca_team-121212.svg?logo=notion&logoColor=fff)](https://www.corca.team/)
 
 </div>
 
