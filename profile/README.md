@@ -2,12 +2,12 @@
   <a href="https://github.com/corca-ai">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/ed73792f-ae70-46c8-8ab7-91dec1d3b516">
-        <img alt="corca" src="https://github.com/user-attachments/assets/4b75183a-f3f8-4b5d-90b4-98a5f034496d">
+        <img alt="corca" src="https://github.com/user-attachments/assets/03cd3aa0-7aad-4e31-bd1f-4fe9fdefcf8a">
       </picture>
   </a>
+  <br/>
+  <br/>
 
-  <br/>
-  <br/>
   
   [![Github Badge](https://img.shields.io/badge/github-corca_ai-1f2329?logo=github)](https://github.com/corca-ai) 
   [![Medium Badge](https://img.shields.io/badge/medium-tech_blog-black.svg?logo=medium)](https://medium.com/corca)
