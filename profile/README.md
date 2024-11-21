@@ -1,12 +1,11 @@
 <div align="center">
   <a href="https://github.com/corca-ai">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/4b75183a-f3f8-4b5d-90b4-98a5f034496d">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/ed73792f-ae70-46c8-8ab7-91dec1d3b516">
         <img alt="corca" src="https://github.com/user-attachments/assets/4b75183a-f3f8-4b5d-90b4-98a5f034496d">
       </picture>
   </a>
 
-  
   <br/>
   <br/>
   
@@ -15,7 +14,6 @@
   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-corca-0b66c2.svg?logo=Linkedin&title_bg=%230b66c2)](https://www.linkedin.com/company/corca-ai/)
   [![StackShare Badge](https://img.shields.io/badge/stackshare-tech_stack-008ff9.svg?logo=stackshare&logoColor=fff)](https://stackshare.io/corca/corcas-tech-stack)
   [![Instagram Badge](https://img.shields.io/badge/Instagram-corca-dd2a7b.svg?logo=instagram&logoColor=fff)](https://www.instagram.com/corca_ai/)
-  [![Team Notion Badge](https://img.shields.io/badge/Notion-corca_team-121212.svg?logo=notion&logoColor=fff)](https://www.corca.team/)
 
 </div>
 
