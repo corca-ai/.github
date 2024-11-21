@@ -1,10 +1,11 @@
 <div align="center">
   <a href="https://github.com/corca-ai">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/corca-ai/.github/assets/51875059/8deb9281-eff8-490a-b652-58f248e4a084">
-        <img alt="corca" src="https://github.com/corca-ai/.github/assets/51875059/4cb1ff78-cd12-4ebe-94d1-a040e90a7910">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/4b75183a-f3f8-4b5d-90b4-98a5f034496d">
+        <img alt="corca" src="https://github.com/user-attachments/assets/4b75183a-f3f8-4b5d-90b4-98a5f034496d">
       </picture>
   </a>
+
   
   <br/>
   <br/>
@@ -23,9 +24,8 @@
 
 ## Corca Team 
 
-* [코르카 팀 페이지](https://www.corca.team/)
-* [채용 중인 포지션](https://www.corca.team/658205b8-ddd1-4ce4-91bf-8dc387e4480b)
-* [코르카 팀 이야기](https://www.corca.team/07a68721-9c8a-41a5-8c41-54772450f394)
+* [채용 중인 포지션](https://corcateam.career.greetinghr.com/career)
+* [코르카 팀 이야기](https://corcateam.career.greetinghr.com/interview)
 * [코르카 커피챗/콜챗 신청하기](https://docs.google.com/forms/d/e/1FAIpQLSc0qvln9mt7kfUOD0C5GrlnAhlal329IZ4IeDGFUx9-yj-QbQ/viewform)
 
 <div align="right">
