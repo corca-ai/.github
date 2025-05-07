@@ -13,8 +13,6 @@
   [![Github Badge](https://img.shields.io/badge/github-corca_ai-1f2329?logo=github)](https://github.com/corca-ai) 
   [![Medium Badge](https://img.shields.io/badge/medium-tech_blog-black.svg?logo=medium)](https://medium.com/corca)
   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-corca-0b66c2.svg?logo=Linkedin&title_bg=%230b66c2)](https://www.linkedin.com/company/corca-ai/)
-  [![StackShare Badge](https://img.shields.io/badge/stackshare-tech_stack-008ff9.svg?logo=stackshare&logoColor=fff)](https://stackshare.io/corca/corcas-tech-stack)
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-corca-dd2a7b.svg?logo=instagram&logoColor=fff)](https://www.instagram.com/corca_ai/)
 
 </div>
 
